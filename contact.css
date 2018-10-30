@@ -1,0 +1,58 @@
+.headerDiv {
+  background-color: black;
+  height: 200px;
+}
+
+.headerTitle {
+  color: white;
+  font-family: Futura;
+  font-weight: Medium;
+  font-size: 80px;
+  position: absolute;
+  transform: translate(110%, 50%);
+  background-color: black;
+}
+
+.body-left{
+  height: 460px;
+  width: 500px;
+}
+
+.aBodyLeft{
+  font-family: 'Avenir Next';
+  font-size: 50px;
+  color: #A1A1A1;
+  font-weight:600;
+  position: absolute;
+}
+
+.a-body-right{
+
+}
+
+.lineDivisor{
+  height: 2px;
+  width: 500px;
+  background-color: black;
+}
+
+.body-right{
+  background-color: white;
+  height: 460px;
+  width: 700px;
+}
+.bodyInfo{
+  font-family: 'Avenir Next';
+  font-size: 20px;
+  color: black;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.bodyEmail{
+  font-family: 'Avenir Next';
+  font-size: 20px;
+  color: black;
+  font-weight: 600;
+  text-align: center;
+}
