@@ -1,5 +1,5 @@
 .topnav {
-    background-color: white;
+    background-color: black;
     height: 50px;
     position: fixed;
     width: 1424px;
@@ -20,7 +20,7 @@
 }
 
 .lineNav {
-  background-color: black;
+  background-color: white;
   height: 20px;
   width:2px;
   position: absolute;
@@ -42,7 +42,7 @@
   font-family: Futura;
   position: absolute;
   transform: translate(75%, 70%);
-  color: white;
+  color: black;
 }
 
 .footerSection {
