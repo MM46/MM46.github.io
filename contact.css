@@ -2,6 +2,12 @@
   background-color: black;
   height: 200px;
 }
+.topnav {
+    background-color: black;
+    height: 50px;
+    position: fixed;
+    width: 1424px;
+}
 
 .headerTitle {
   color: white;
@@ -11,6 +17,22 @@
   position: absolute;
   transform: translate(110%, 50%);
   background-color: black;
+}
+
+.title {
+  font-family: Futura;
+  font-size: 30px;
+  position: absolute;
+  transform: translate(40%, 0%);
+  color: white;
+}
+
+.titleLeft {
+  font-family: Futura;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(40%, 20%);
+  color: white;
 }
 
 .body-left{
